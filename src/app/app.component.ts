@@ -5,10 +5,6 @@ import { DataService } from './data.service';
 @Component({
   selector: 'app-root',
   template: `
-    <h1>
-      NgxRequestProgress
-    </h1>
-
     <nav>
       <a routerLink="/one">Route One </a>
       <a routerLink="/two">Route Two</a>
